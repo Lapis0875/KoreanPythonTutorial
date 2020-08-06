@@ -17,3 +17,11 @@ print(f)
 
 a = (10 + 20) * 3
 print(a)
+
+text = "Hello" + "World!"
+print(text)
+
+text = "A"*3
+print(text)
+text = 3*"A"
+print(text)
