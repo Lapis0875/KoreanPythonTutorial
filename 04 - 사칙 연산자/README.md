@@ -46,7 +46,9 @@ print(c)
 c = 2 ** 5
 print(c)
 ```
+
 [ result ]
+```
 32
 ```
 
