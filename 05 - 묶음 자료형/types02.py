@@ -40,5 +40,15 @@ print(array)
 print(type(array))
 print(array[2], array[3])
 
+# list 자료형은 선언 이후에도 내부 데이터를 변경할 수 있습니다.
+array[2] = 4
+print(array[2])
+
+# list 객체는 insert 메소드를 통해 원하는 위치에 데이터을 추가할 수도 있습니다.
+array.insert(1, "6")
+
+# list 객체는 append 메소드를 통해 가장 마지막에 새 데이터를 추가할 수 있습니다.
+array.append(7)
+
 # dict 자료형은 키:값으로 데이터를 저장하는 딕셔너리 자료형입니다. 딕셔너리 자료형은 키와 값에 해당하는 데이터를 모두 저장하고, 값을 가져오기 위해서 키로 접근합니다.
 dictionary = {}
