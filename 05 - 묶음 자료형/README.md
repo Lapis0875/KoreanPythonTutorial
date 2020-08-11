@@ -85,6 +85,18 @@ print(array[2], array[3])
 <class 'list'>
 2 True
 ```
+list 자료형은 선언 이후에도 내부 데이터를 변경할 수 있습니다.
+```python
+array = [0, 1, "2", True, "4", 5.0]
+array[2] = 4
+print(array[2])
+
+# list 객체는 insert 메소드를 통해 임의의 위치에 데이터을 추가할 수도 있습니다.
+array.insert(1, "6")
+
+# list 객체는 append 메소드를 통해 리스트의 가장 끝부분에 새 데이터를 추가할 수 있습니다.
+array.append(7)
+```
 
 ### tuple
 tuple 자료형은 list와 마찬가지로, 여러개의 데이터를 타입과 무관하게 저장할 수 있습니다. 그러나, list 자료형은 생성 이후에도 내부에 저장된 데이터들을 변경할 수 있다면 tuple은 선언할 때 저장한 데이터들을 이후에 변경할 수 없습니다.
