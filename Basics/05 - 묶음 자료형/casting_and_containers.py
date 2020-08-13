@@ -50,5 +50,46 @@ array.insert(1, "6")
 # list 객체는 append 메소드를 통해 가장 마지막에 새 데이터를 추가할 수 있습니다.
 array.append(7)
 
+# tuple 자료형은 list와 마찬가지로, 여러개의 데이터를 타입과 무관하게 저장할 수 있습니다.
+# 그러나, list 자료형은 생성 이후에도 내부에 저장된 데이터들을 변경할 수 있지만, tuple은 선언할 때 저장한 데이터들을 이후에 변경할 수 없습니다.
+# 프로그래밍 용어로는, list는 mutable(변경 가능) 하고 tuple은 immutable(변경 불가능) 하다고 말합니다.
+my_tuple = (0, 1, 2, 3, 4, 5)
+print(my_tuple, type(my_tuple))
+print(my_tuple[2])
+my_tuple[2] = 7
+
+# set 자료형은 수학에서 배우는 `집합` 과 같은 자료형입니다.
+A = {1, 2, 3, 4, 5}
+# set 자료형은 데이터의 중복이 허용되지 않습니다.
+B = set([3, 4, 5, 6, 6, 7, 7, 7, 8])
+print(A, B)
+print(type(A), type(B))
+# set 자료형은 앞서 배웠던 list, tuple과는 다르게 내부의 데이터들이 순서를 가지지 않아 인덱싱을 사용할 수 없습니다.
+print(A[0])
+
+# set 자료형은 집합의 연산들을 사용할 수 있습니다.
+# & 기호 혹은 intersection() 메소드를 사용해 두 집합의 교집합을 구할 수 있습니다.
+intersection = A & B
+print(intersection)
+print(type(intersection))
+print(A.intersection(B), B.intersection(A))
+# | 기호 혹은 union() 메소드를 사용해 두 집합의 합집합을 계산할 수 있습니다.
+union = A | B
+print(union)
+print(type(union))
+print(A.union(B), B.union(A))
+# - 기호 혹은 difference() 메소드를 사용해 두 집합의 차집합을 계산할 수 있습니다.
+A_diff_B = A - B
+B_diff_A = B.difference(A)
+print(A_diff_B, type(A_diff_B))
+print(B_diff_A, type(B_diff_A))
+# set 자료형에 새 데이터를 추가하려면, add() 메소드를 사용할 수 있습니다.
+A.add(6)
+print(A)
+# set 자료형의 여러개의 새 데이터를 추가하려면, update() 메소드를 사용할 수 있습니다.
+A.update([7, 8, 9, 10])
+print(A)
+
+
 # dict 자료형은 키:값으로 데이터를 저장하는 딕셔너리 자료형입니다. 딕셔너리 자료형은 키와 값에 해당하는 데이터를 모두 저장하고, 값을 가져오기 위해서 키로 접근합니다.
 dictionary = {}

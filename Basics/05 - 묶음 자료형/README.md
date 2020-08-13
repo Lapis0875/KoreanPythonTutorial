@@ -36,7 +36,7 @@ print("type of `num_new` :", type(num_new))
 위 코드의 출력 결과는 아래와 같습니다 : 
 ```css
 Traceback (most recent call last):
-  File "D:/Study/Python/YH/05 - 묶음 자료형/types02.py", line 16, in <module>
+  File "파이썬 강좌/Basics/05 - 묶음 자료형/casting_and_containers.py", line 16, in <module>
     num_new = num_int + num_str
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 ```
@@ -99,9 +99,24 @@ array.append(7)
 ```
 
 ### tuple
-tuple 자료형은 list와 마찬가지로, 여러개의 데이터를 타입과 무관하게 저장할 수 있습니다. 그러나, list 자료형은 생성 이후에도 내부에 저장된 데이터들을 변경할 수 있다면 tuple은 선언할 때 저장한 데이터들을 이후에 변경할 수 없습니다.
-프로그래밍 용어로는, list는 mutable(변경 가능) 하고 tuple은 immutable(변경 불가능) 하다고 합니다.
-
+tuple 자료형은 list와 마찬가지로, 여러개의 데이터를 타입과 무관하게 저장할 수 있습니다. 
+그러나, list 자료형은 생성 이후에도 내부에 저장된 데이터들을 변경할 수 있지만, tuple은 선언할 때 저장한 데이터들을 이후에 변경할 수 없습니다.
+프로그래밍 용어로는, list는 mutable(변경 가능) 하고 tuple은 immutable(변경 불가능) 하다고 말합니다.
+```python
+my_tuple = (0, 1, 2, 3, 4, 5)
+print(my_tuple)
+print(my_tuple[2])
+my_tuple[2] = 7
+```
+위 코드의 출력 결과는 다음과 같습니다 : 
+```css
+(0, 1, 2, 3, 4, 5)
+2
+Traceback (most recent call last):
+  File "파이썬 강좌/Basics/05 - 묶음 자료형/casting_and_containers.py", line 59, in <module>
+    my_tuple[2] = 7
+TypeError: 'tuple' object does not support item assignment
+```
 ### set
 set 자료형은 수학에서 배우는 집합과 같은 개념의 자료형입니다. 같은 데이터가 중복되어 저장될 수 없으며, 합집합, 차집합 등의 집합 연산들이 가능합니다.
 
