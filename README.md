@@ -35,11 +35,11 @@
 ## [파이썬의 문법들](./Advanced_02_파이썬의_문법들/README.md)
 1. 파일 입출력
 2. in 키워드
-2. in 키워드
-3. with 키워드
-3. iterator와 generator
-4. list , dict, set, generator comprehension 
-5. 타입이란 무엇인가? & 타입 힌트
+3. del 키워드
+4. with 키워드
+5. iterator와 generator
+6. list , dict, set, generator comprehension 
+7. 타입이란 무엇인가? & 타입 힌트
 
 ## [프로젝트 03 : 파이썬 문법 복습]()
 ( 고민중 )
@@ -67,11 +67,11 @@
 ( 고민중 )
 
 ## [파이썬으로 다뤄보는 동시성(Concurrent)와 병렬성(Parallelism)]()
-1. 동시성과 병렬성, 그리고 이를 위한 모듈 threading, multiprocessing, asyncio :man_student: 
-2. Threading - 스레드(Thread)의 개념과 스레드의 특징, 그리고 그로 인해 나타나는 문제들과 해결법 :man_student: 
-3. Multiprocessing - 프로세스(Process)의 개념 과 특징, 스레드와의 비교 :man_student: 
-4. Asynchronous  - 비동기 프로그래밍의 개념과 특징, :man_student:
-5. Futures - 고수준 병렬처리 API concurrent.futures :man_student: 
+1. 동시성과 병렬성, 그리고 이를 위한 모듈 threading, multiprocessing, asyncio
+2. Threading - 스레드(Thread)의 개념과 스레드의 특징, 그리고 그로 인해 나타나는 문제들과 해결법
+3. Multiprocessing - 프로세스(Process)의 개념 과 특징, 스레드와의 비교
+4. Asynchronous  - 비동기 프로그래밍의 개념과 특징
+5. Futures - 고수준 병렬처리 API concurrent.futures
 
 ## [프로젝트 06]()
 고급 5강에서 공부한 동시성과 병렬성을 활용해, 오래걸리는 작업의 소요시간을 단축해보자.
