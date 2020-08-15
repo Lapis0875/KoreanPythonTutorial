@@ -37,6 +37,53 @@ print(5 < 3, 3 <= 3)
 True True
 False True
 ```
+### 3. 식별 연산자 'is', 'is not'
+'is' 연산자는 두 데이터가 같은 객체인지를 비교합니다.
+```python
+a = 5
+b = 5
+c = 5.0
+print(a is b, a is c)
+```
+위 코드의 실행 결과입니다 :
+```css
+True False
+```
+
+'is not' 연산자는 두 데이터가 다른 객체인지를 비교합니다.
+```python
+a = 5
+b = 5
+c = 5.0
+print(a is not b, a is not c)
+```
+위 코드의 실행 결과입니다 :
+```css
+False True
+```
+### 4. 멤버 연산자 'in', 'not in'
+'in' 연산자는 왼쪽의 데이터가 오른쪽의 데이터에 속해있는지를 비교합니다.
+```python
+a = 1
+b = [1,2,3]
+print(a in b, 'sun' in 'sunrabbit', 'pi' in 'python')
+```
+위 코드의 실행 결과입니다 :
+```css
+True True False
+```
+
+'not in' 연산자는 왼쪽의 데이터가 오른쪽의 데이터에 속해있지않는가를 비교합니다.
+```python
+print(5 not in [1,2,3,4], '파이썬' not in '파이썬튜토리얼')
+```
+위 코드의 실행 결과입니다. :
+``` css 
+True False
+```
+
+
+
 
 
 ## 코드 블럭
