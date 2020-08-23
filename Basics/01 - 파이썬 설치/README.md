@@ -14,3 +14,6 @@
 #### 4. 설치가 완료되면 close 버튼을 눌러 종료합니다. 윈도우 버튼을 눌러 프로그램 목록에서 Python (버전) 폴더에 파이썬이 추가되어있는지 확인합니다.
 ![screenshot3](pythonorg04-check.png)</br></br>
 ***
+
+[이전 강좌](./Basics/README.md)
+[다음 강좌](./Basics/02%20-%20변수와%20기본%20자료형/README.md)
