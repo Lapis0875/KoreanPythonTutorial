@@ -125,6 +125,7 @@ print(text)
 AAA
 AAA
 ```
+***
 
 [예제 코드](/Basics/04%20-%20연산자/operators.py)</br>
 [이전 강좌](/Basics/03%20-%20기본%20입출력%20함수/README.md)</br>
