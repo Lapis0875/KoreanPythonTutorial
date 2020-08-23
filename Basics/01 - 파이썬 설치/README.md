@@ -15,5 +15,5 @@
 ![screenshot3](pythonorg04-check.png)</br></br>
 ***
 
-[이전 강좌](/Basics/README.md)
+[이전 강좌](/Basics/README.md)</br>
 [다음 강좌](/Basics/02%20-%20변수와%20기본%20자료형/README.md)
