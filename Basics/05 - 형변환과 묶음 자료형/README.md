@@ -256,6 +256,6 @@ print(dictionary)
 {'key': 'value', 'name': '홍길동', 'school': '영훈고등학교', 'grade': 2, 'class': 5}
 ```
 
-[예제 코드](./Basics/05%20-%20형변환과%20묶음%20자료형/casting_and_containers.py)
-[이전 강좌](./Basics/04%20-%20연산자/README.md)
-[다음 강좌](./Basics/06%20-%20조건문/README.md)
+[예제 코드](/Basics/05%20-%20형변환과%20묶음%20자료형/casting_and_containers.py)
+[이전 강좌](/Basics/04%20-%20연산자/README.md)
+[다음 강좌](/Basics/06%20-%20조건문/README.md)

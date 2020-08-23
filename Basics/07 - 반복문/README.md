@@ -168,6 +168,6 @@ while True:
     print("무한루프입니다 :", n, "회 반복중입니다.")
 ```
 
-[예제 코드](./Basics/07%20-%20반복문/loop.py)
-[이전 강좌](./Basics/06%20-%20조건문/README.md)
-[다음 강좌](./Basics/08%20-%20함수/README.md)
+[예제 코드](/Basics/07%20-%20반복문/loop.py)
+[이전 강좌](/Basics/06%20-%20조건문/README.md)
+[다음 강좌](/Basics/08%20-%20함수/README.md)
