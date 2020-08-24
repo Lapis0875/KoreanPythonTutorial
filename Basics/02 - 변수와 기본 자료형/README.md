@@ -8,9 +8,9 @@
 프로그래밍을 할 때, 여러 변수에 필요한 데이터를 저장해두고 사용하게 될 거에요.
 파이썬에서 변수를 사용하려면 아래의 코드처럼 작성하면 되요.
 ```python
-var = 0
-var = "Hello World"
-var = True
+a = 0
+b = "Hello World"
+c = True
 ```
 
 ## 자료형(타입) 이란 무엇인가?
@@ -40,4 +40,8 @@ var = "문자열이에요!"
 ```python
 var = True
 ```
+***
 
+[예제 코드](/Basics/02%20-%20변수와%20기본%20자료형/var_and_basic_types.py)</br>
+[이전 강좌](/Basics/01%20-%20파이썬%20설치/README.md)</br>
+[다음 강좌](/Basics/03%20-%20기본%20입출력%20함수/README.md)
