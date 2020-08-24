@@ -223,7 +223,8 @@ dict 자료형은 **딕셔너리** 라고 부르는 자료형으로,
 앞서 list와 tuple에서는 인덱스를 사용해 내부 데이터에 접근했다면 딕셔너리는 **키** 를 사용해 내부 데이터에 접근합니다.
 딕셔너리는 **`키 : 값`** 의 형태로 정의합니다.
 ```python
-# dict 자료형은 키:값으로 데이터를 저장하는 딕셔너리 자료형입니다. 딕셔너리 자료형은 키와 값에 해당하는 데이터를 모두 저장하고, 값을 가져오기 위해서 키로 접근합니다.
+# dict 자료형은 키:값으로 데이터를 저장하는 딕셔너리 자료형입니다. 
+# 딕셔너리 자료형은 키와 값에 해당하는 데이터를 모두 저장하고, 값을 가져오기 위해서 키로 접근합니다.
 dictionary = {"key": "value", "name": "홍길동", "age": 36}
 print(dictionary, type(dictionary))
 print(dictionary["name"])
@@ -255,3 +256,8 @@ print(dictionary)
 17
 {'key': 'value', 'name': '홍길동', 'school': '영훈고등학교', 'grade': 2, 'class': 5}
 ```
+***
+
+[예제 코드](/Basics/05%20-%20형변환과%20묶음%20자료형/casting_and_containers.py)</br>
+[이전 강좌](/Basics/04%20-%20연산자/README.md)</br>
+[다음 강좌](/Basics/06%20-%20조건문/README.md)

@@ -127,3 +127,4 @@ print(dictionary)
 # dict 자료형에서 데이터를 제거할 때는 pop() 메소드를 사용합니다. pop() 메소드는 제거한 값을 반환합니다.
 age = dictionary.pop("age")
 print(age)
+print(dictionary)
