@@ -1,8 +1,18 @@
 # 항등 연산자
 print(5 == 5, 5 == 1, "5" == 5)
 print(5 != 3, 3 != 3, "5" != 5)
+
+# 대소비교 연산자
 print(5 > 3, 3 >= 3)
 print(5 < 3, 3 <= 3)
+
+# in 연산자
+if 'a' in "abc":
+    print("a는 abc 안에 있습니다!")
+
+# not 연산자
+if not True:
+    print("if문의 조건이 True입니다!")
 
 # 조건문
 answer = input("원하는 조건문을 입력하세요 : ")
