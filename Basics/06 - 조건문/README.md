@@ -123,6 +123,25 @@ if문을 실행합니다.
 else문을 실행합니다.
 ```
 
+### 4. and 연산자
+and 연산자는 연결된 두개의 조건이 모두 True일 때 True를 반환합니다.
+```python
+answer = input("영단어를 입력하세요 > ")
+if 'a' in answer and 'e' in answer:
+    print("입력받은 영단어에는 a와 e가 모두 포함됩니다!")
+else:
+    print("입력받은 영단어에는 a와 e가 모두 포함되는것은 아닙니다...")
+```
+
+### 5. or 연산자
+or 연산자는 연결된 두개의 조건중 하나라도 True이면 True를 반환합니다.
+```python
+answer = input("영단어를 입력하세요 > ")
+if 'a' in answer or 'e' in answer:
+    print("입력받은 영단어에는 a 또는 e가 포함됩니다!")
+else:
+    print("입력받은 영단어에는 a와 e가 모두 포함되지 않습니다...")
+```
 
 ***
 
