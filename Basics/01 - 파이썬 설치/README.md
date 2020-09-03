@@ -14,6 +14,12 @@
 #### 4. 설치가 완료되면 close 버튼을 눌러 종료합니다. 윈도우 버튼을 눌러 프로그램 목록에서 Python (버전) 폴더에 파이썬이 추가되어있는지 확인합니다.
 ![screenshot3](pythonorg04-check.png)</br></br>
 ***
+#### 5. 4번에서 연 프로그램 목록 창에서 IDLE를 눌러 실행합니다. 혹은 윈도우 검색창에 IDLE를 검색해 실행합니다.
+![screenshot3](pythonorg05-idle.png)</br></br>
+***
+#### 6. IDLE 메뉴에서 파일 > 새 파일을 눌러, 파일 편집기를 실행합니다.
+![screenshot3](pythonorg06-idle-newfile.png)
+![screenshot3](pythonorg06-idle-newfile2.png)
 
-[이전 강좌](/Basics/README.md)</br>
-[다음 강좌](/Basics/02%20-%20변수와%20기본%20자료형/README.md)
+[<- 이전 강좌](/Basics/README.md) /
+[다음 강좌 ->](/Basics/02%20-%20변수와%20기본%20자료형/README.md)
