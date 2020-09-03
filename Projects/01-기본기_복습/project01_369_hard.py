@@ -53,13 +53,14 @@ def game():
         rounds = rounds + 1
         if rounds % 2 == 1:
             # 플레이어의 차례
-            prev = player_turn(prev)
+            prev = player_turn(prev)    # 현재 숫자를 기록해 다음 라운드에 참고합니다.
             if prev == -1:
                 # 플레이어가 졌을 경우
                 break
         else:
             # 컴퓨터의 차례
-            prev = computer_turn(prev)
+            prev = computer_turn(prev)    # 현재 숫자를 기록해 다음 라운드에 참고합니다.
 
 
+# 369 게임을 실행합니다.
 game()
