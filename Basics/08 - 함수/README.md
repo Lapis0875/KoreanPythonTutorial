@@ -60,6 +60,7 @@ task()
 
 ***
 
-[예제 코드](/Basics/08%20-%20함수/function.py)</br>
-[이전 강좌](/Basics/07%20-%20반복문/README.md)</br>
-[다음 강좌](/Projects/01_기본기_복습/README.md)
+[예제 코드 보기](/Basics/08%20-%20함수/function.py)
+
+[<- 이전 강좌](/Basics/07%20-%20반복문/README.md) /
+[다음 강좌 ->](/Projects/01_기본기_복습/README.md)
