@@ -145,7 +145,7 @@ else:
 
 ***
 
-[예제 코드 보기](/Basics/06%20-%20조건문/condition.py)
+[예제 코드 보기](Basics/06-conditions/condition.py)
 
-[<- 이전 강좌](/Basics/05%20-%20형변환과%20묶음%20자료형/README.md) /
-[다음 강좌 ->](/Basics/07%20-%20반복문/README.md)
+[<- 이전 강좌](Basics/05-casting_and_collections/README.md) /
+[다음 강좌 ->](Basics/07-loops/README.md)

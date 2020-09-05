@@ -23,12 +23,12 @@
 </br></br>
 
 ## [Tips : 프로그래밍을 하면서 알아두면 도움되는 팁 - 1부](Tips/README.md)
-1. [특강 1) 구글링을 습관화하자]()
-2. [특강 2) Stack Overflow]()
+1. [특강 1) 구글링을 습관화하자](Tips/01-Google_It/README.md)
+2. [특강 2) Stack Overflow](Tips/02-StackOverflow/README.md)
 </br></br>
 
 ## [파이썬의 문법들 - 1부](Python_Grammers/README.md)
-1. [파일 입출력]()
+1. [파일 입출력](Python_Grammers/01-FileIO/README.md)
 2. [문자열(str) 을 다룰 때 유용한 메소드들]()
 3. in 키워드
 4. 타입이란 무엇인가? & 타입 힌트

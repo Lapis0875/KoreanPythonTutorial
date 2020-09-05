@@ -258,7 +258,7 @@ print(dictionary)
 ```
 ***
 
-[예제 코드 보기](/Basics/05%20-%20형변환과%20묶음%20자료형/casting_and_containers.py)
+[예제 코드 보기](Basics/05-casting_and_collections/casting_and_containers.py)
 
-[<- 이전 강좌](/Basics/04%20-%20연산자/README.md) /
-[다음 강좌 ->](/Basics/06%20-%20조건문/README.md)
+[<- 이전 강좌](Basics/04-operators/README.md) /
+[다음 강좌 ->](Basics/06-conditions/README.md)

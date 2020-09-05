@@ -21,5 +21,5 @@
 ![screenshot3](pythonorg06-idle-newfile.png)
 ![screenshot3](pythonorg06-idle-newfile2.png)
 
-[<- 이전 강좌](/Basics/README.md) /
-[다음 강좌 ->](/Basics/02%20-%20변수와%20기본%20자료형/README.md)
+[강좌 목록](Basics/README.md) /
+[다음 강좌 ->](Basics/02-variables_and_types/README.md)
