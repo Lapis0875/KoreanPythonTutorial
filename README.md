@@ -19,7 +19,7 @@
 
 ## [프로젝트 01 : 기본기 강좌 복습](Projects/01_기본기_복습/README.md)
 기본 강좌에서 배운 내용을 복습하며, 간단한 프로그램을 만들어봅시다.
-1. [369 게임 만들기](Projects/01_기본기_복습/README.md)
+1. [369 게임 만들기](Projects/01-Basics_Practice/README.md)
 </br></br>
 
 ## [Tips : 프로그래밍을 하면서 알아두면 도움되는 팁 - 1부](Tips/README.md)
