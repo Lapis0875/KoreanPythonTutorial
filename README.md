@@ -7,7 +7,7 @@
 
 ## [기초 강좌 : Basics](Basics/README.md)
 프로그래밍 언어의 가장 기본적인 부분들인 설치부터 함수까지 배워보고자 합니다.
-1. [파이썬 설치](Basics/01%20-%20파이썬%20설치/README.md)
+1. [파이썬 설치](Basics/01-install_python/README.md)
 2. [변수와 기본 자료형](Basics/02-variables_and_types/README.md)
 3. [기본 입출력 함수](Basics/03-basic_console_IO/README.md)
 4. [사칙 연산자](Basics/04-operators/README.md)
@@ -19,7 +19,7 @@
 
 ## [프로젝트 01 : 기본기 강좌 복습](Projects/01_기본기_복습/README.md)
 기본 강좌에서 배운 내용을 복습하며, 간단한 프로그램을 만들어봅시다.
-1. [369 게임 만들기](Projects/01_기본기_복습/README.md)
+1. [369 게임 만들기](Projects/01-Basics_Practice/README.md)
 </br></br>
 
 ## [Tips : 프로그래밍을 하면서 알아두면 도움되는 팁 - 1부](Tips/README.md)
