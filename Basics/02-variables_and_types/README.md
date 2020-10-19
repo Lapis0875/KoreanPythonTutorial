@@ -42,7 +42,7 @@ var = True
 ```
 ***
 
-[예제 코드 보기](Basics/02-variables_and_types/var_and_basic_types.py)
+[예제 코드 보기](../../Basics/02-variables_and_types/var_and_basic_types.py)
 
-[<- 이전 강좌](Basics/01-install_python/README.md) /
-[다음 강좌 ->](Basics/03-basic_console_IO/README.md)
+[<- 이전 강좌](../../Basics/01-install_python/README.md) /
+[다음 강좌 ->](../../Basics/03-basic_console_IO/README.md)

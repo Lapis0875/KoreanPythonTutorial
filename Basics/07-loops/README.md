@@ -169,7 +169,7 @@ while True:
 ```
 ***
 
-[예제 코드 보기](Basics/07-loops/loop.py)
+[예제 코드 보기](../../Basics/07-loops/loop.py)
 
-[<- 이전 강좌](Basics/06-conditions/README.md) /
-[다음 강좌 ->](Basics/README.md)
+[<- 이전 강좌](../../Basics/06-conditions/README.md) /
+[다음 강좌 ->](../../Basics/README.md)
