@@ -102,8 +102,8 @@ print("입력하신 정답은", answer, "입니다.")
 ```
 ***
 
-[예제 코드 보기](Basics/03-basic_console_IO/builtin_IOs.py)
+[예제 코드 보기](./builtin_IOs.py)
 
-[<- 이전 강좌](Basics/02-variables_and_types/README.md) /
-[다음 강좌 ->](Basics/04-operators/README.md)
+[<- 이전 강좌](../02-variables_and_types/README.md) /
+[다음 강좌 ->](../04-operators/README.md)
 

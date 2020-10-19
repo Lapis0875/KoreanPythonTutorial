@@ -127,7 +127,7 @@ AAA
 ```
 ***
 
-[예제 코드 보기](Basics/04-operators/operators.py)
+[예제 코드 보기](./operators.py)
 
-[<- 이전 강좌](Basics/03-basic_console_IO/README.md) /
-[다음 강좌 ->](Basics/05-casting_and_collections/README.md)
+[<- 이전 강좌](../03-basic_console_IO/README.md) /
+[다음 강좌 ->](../05-casting_and_collections/README.md)
