@@ -22,4 +22,4 @@
 ![screenshot3](pythonorg06-idle-newfile2.png)
 
 [강좌 목록](../Basics/README.md) /
-[다음 강좌 ->](../../Basics/02-variables_and_types/README.md)
+[다음 강좌 ->](../02-variables_and_types/README.md)
