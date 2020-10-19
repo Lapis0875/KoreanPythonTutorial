@@ -1,7 +1,7 @@
 # BASICS : 기초 강좌
 각 강좌별 바로가기입니다.
 
-### [01 - 파이썬 설치](.01-install_python/README.md)
+### [01 - 파이썬 설치](./01-install_python/README.md)
 
 ### [02 - 변수와 기본 자료형](./02-variables_and_types/README.md)
 
