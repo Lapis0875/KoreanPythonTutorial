@@ -63,4 +63,4 @@ task()
 [예제 코드 보기](./function.py)
 
 [<- 이전 강좌](../07-loops/README.md) /
-[과제 ->](../01-Basics_Practice/README.md)
+[과제 ->](../../Projects/01-Basics_Practice/README.md)
