@@ -25,6 +25,7 @@
 ## [Tips : 프로그래밍을 하면서 알아두면 도움되는 팁 - 1부](Tips/README.md)
 1. [특강 1) 구글링을 습관화하자](Tips/01-Google_It/README.md)
 2. [특강 2) Stack Overflow](Tips/02-StackOverflow/README.md)
+3. [특강 3) 정규표현식](Tips/03-RegEx/README.md)
 </br></br>
 
 ## [파이썬의 문법들 - 1부](Python_Grammers/README.md)
