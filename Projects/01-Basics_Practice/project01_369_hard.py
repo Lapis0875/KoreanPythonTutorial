@@ -1,10 +1,9 @@
+CLAP_STR = '짝'
+
+
 def claps(number):
-    number_counts = [number.count('3'), number.count('6'), number.count('9')]
-    clap_count = 0
-    for count in number_counts:
-        if count >= 1:
-            clap_count = clap_count + count
-    return clap_count
+    count = number.count('3') + number.count('6') + number.count('9')
+    return CLAP_STR * count
 
 
 def player_turn(prev):
@@ -13,9 +12,9 @@ def player_turn(prev):
     # 3, 6, 9가 포함되는 차례인지 확인
     if '3' in answer or '6' in answer or '9' in answer:
         # 박수 쳐야하는 횟수를 계산함.
-        clap_count = claps(answer)
+        clap = claps(answer)
         # 포함될 경우 숫자 대신 박수를 침
-        if player != "짝"*clap_count:
+        if player != clap:
             print("박수를 쳐야 하는 차례입니다! 당신이 졌습니다.")
             return -1
     else:
@@ -34,9 +33,8 @@ def computer_turn(prev):
     # 3, 6, 9가 포함되는지 확인
     if '3' in answer or '6' in answer or '9' in answer:
         # 박수 쳐야하는 횟수를 계산함.
-        clap_count = claps(answer)
         # 포함될 경우 숫자 대신 박수를 침
-        print("👏"*clap_count)
+        print(claps(answer))
     else:
         # 포함되지 않을 경우 숫자를 출력함
         print(answer)
