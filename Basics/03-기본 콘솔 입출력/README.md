@@ -105,5 +105,5 @@ print("입력하신 정답은", answer, "입니다.")
 [예제 코드 보기](./builtin_IOs.py)
 
 [<- 이전 강좌](../02-변수와%20타입/README.md) /
-[다음 강좌 ->](../04-operators/README.md)
+[다음 강좌 ->](../04-연산자/README.md)
 

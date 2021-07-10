@@ -260,5 +260,5 @@ print(dictionary)
 
 [예제 코드 보기](./casting_and_containers.py)
 
-[<- 이전 강좌](../04-operators/README.md) /
+[<- 이전 강좌](../04-연산자/README.md) /
 [다음 강좌 ->](../06-conditions/README.md)

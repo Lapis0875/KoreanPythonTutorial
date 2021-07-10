@@ -7,7 +7,7 @@
 
 ### [03 - 기본 입출력 함수](03-기본 콘솔 입출력/README.md)
 
-### [04 - 연산자](./04-operators/README.md)
+### [04 - 연산자](04-연산자/README.md)
 
 ### [05 - 형변환과 묶음 자료형](./05-casting_and_collections/README.md)
 

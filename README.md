@@ -9,7 +9,7 @@
 1. [파이썬 설치](Basics/01-파이썬 설치하기/README.md)
 2. [변수와 기본 자료형](Basics/02-변수와 타입/README.md)
 3. [기본 입출력 함수](Basics/03-기본 콘솔 입출력/README.md)
-4. [사칙 연산자](Basics/04-operators/README.md)
+4. [사칙 연산자](Basics/04-연산자/README.md)
 5. [형변환 (Casting) 과 묶음 자료형](Basics/05-casting_and_collections/README.md)
 6. [흐름 제어문 1 : if ~ elif ~ else 와 조건문](Basics/06-conditions/README.md)
 7. [흐름 제어문 2 : for, while 반복문](Basics/07-loops/README.md)
