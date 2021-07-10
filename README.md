@@ -1,15 +1,15 @@
 # Python Tutorial
 이 저장소는 파이썬 강좌 자료들을 보관하는 깃허브 저장소입니다.
-영훈고등학교 프로그래밍 스터디 소동아리에서 사용하기 위한 목적으로 제작되었으나, 다른분들도 자유롭게 쓰셔도 괜찮습니다.
+고등학교 프로그래밍 소동아리에서 사용하기 위한 목적으로 제작되었으나, 다른분들도 자유롭게 쓰셔도 괜찮습니다.
 
 강좌는 아래의 목차로 이루어져 있습니다.
 </br></br>
 
 ## [기초 강좌 : Basics](Basics/README.md)
 프로그래밍 언어의 가장 기본적인 부분들인 설치부터 함수까지 배워보고자 합니다.
-1. [파이썬 설치](Basics/01-install_python/README.md)
-2. [변수와 기본 자료형](Basics/02-variables_and_types/README.md)
-3. [기본 입출력 함수](Basics/03-basic_console_IO/README.md)
+1. [파이썬 설치](Basics/01-파이썬 설치하기/README.md)
+2. [변수와 기본 자료형](Basics/02-변수와 타입/README.md)
+3. [기본 입출력 함수](Basics/03-기본 콘솔 입출력/README.md)
 4. [사칙 연산자](Basics/04-operators/README.md)
 5. [형변환 (Casting) 과 묶음 자료형](Basics/05-casting_and_collections/README.md)
 6. [흐름 제어문 1 : if ~ elif ~ else 와 조건문](Basics/06-conditions/README.md)

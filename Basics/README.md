@@ -1,11 +1,11 @@
 # BASICS : 기초 강좌
 각 강좌별 바로가기입니다.
 
-### [01 - 파이썬 설치](./01-install_python/README.md)
+### [01 - 파이썬 설치](01-파이썬 설치하기/README.md)
 
-### [02 - 변수와 기본 자료형](./02-variables_and_types/README.md)
+### [02 - 변수와 기본 자료형](02-변수와 타입/README.md)
 
-### [03 - 기본 입출력 함수](./03-basic_console_IO/README.md)
+### [03 - 기본 입출력 함수](03-기본 콘솔 입출력/README.md)
 
 ### [04 - 연산자](./04-operators/README.md)
 
