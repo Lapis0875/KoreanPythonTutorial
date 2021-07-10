@@ -9,10 +9,10 @@
 
 ### [04 - 연산자](04-연산자/README.md)
 
-### [05 - 형변환과 묶음 자료형](./05-casting_and_collections/README.md)
+### [05 - 형변환과 묶음 자료형](05-타입 변환과 묶음 타입들 (collections)/README.md)
 
-### [06 - 조건문](./06-conditions/README.md)
+### [06 - 조건문](06-조건문/README.md)
 
-### [07 - 반복문](./07-loops/README.md)
+### [07 - 반복문](07-반복문/README.md)
 
-### [08 - 함수](./08-function/README.md)
+### [08 - 함수](08-함수/README.md)

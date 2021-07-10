@@ -147,5 +147,5 @@ else:
 
 [예제 코드 보기](./condition.py)
 
-[<- 이전 강좌](../05-casting_and_collections/README.md) /
-[다음 강좌 ->](../07-loops/README.md)
+[<- 이전 강좌](../05-타입%20변환과%20묶음%20타입들/README.md) /
+[다음 강좌 ->](../07-반복문/README.md)

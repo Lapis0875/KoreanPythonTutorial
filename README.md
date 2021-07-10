@@ -10,10 +10,10 @@
 2. [변수와 기본 자료형](Basics/02-변수와 타입/README.md)
 3. [기본 입출력 함수](Basics/03-기본 콘솔 입출력/README.md)
 4. [사칙 연산자](Basics/04-연산자/README.md)
-5. [형변환 (Casting) 과 묶음 자료형](Basics/05-casting_and_collections/README.md)
-6. [흐름 제어문 1 : if ~ elif ~ else 와 조건문](Basics/06-conditions/README.md)
-7. [흐름 제어문 2 : for, while 반복문](Basics/07-loops/README.md)
-8. [함수](Basics/08-function/README.md)
+5. [형변환 (Casting) 과 묶음 자료형](Basics/05-타입 변환과 묶음 타입들 (collections)/README.md)
+6. [흐름 제어문 1 : if ~ elif ~ else 와 조건문](Basics/06-조건문/README.md)
+7. [흐름 제어문 2 : for, while 반복문](Basics/07-반복문/README.md)
+8. [함수](Basics/08-함수/README.md)
 </br></br>
 
 ## [프로젝트 01 : 기본기 강좌 복습](Projects/01_기본기_복습/README.md)

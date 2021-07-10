@@ -173,5 +173,5 @@ while True:
 
 [예제 코드 보기](./loop.py)
 
-[<- 이전 강좌](../06-conditions/README.md) /
-[다음 강좌 ->](../08-function/README.md)
+[<- 이전 강좌](../06-조건문/README.md) /
+[다음 강좌 ->](../08-함수/README.md)
