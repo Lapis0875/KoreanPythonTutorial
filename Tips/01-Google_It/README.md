@@ -19,7 +19,7 @@
 찾고자 하는 정보의 키워드만 적어도, 충분히 원하는 정보를 얻어낼 수 있습니다.
 예를 들어, 파이썬의 함수에 대해서 알아보고자 한다면 다음과 같은 검색어를 쓸 수 있습니다 : 
 [python function](https://www.google.com/search?q=python+function) (눌러서 검색해보세요!)
-![검색 결과 이미지](google_python_function.png)
+![검색 결과 이미지](./google_python_function.png)
 
 만약 작성 중인 코드에서 오류가 발생한다고요? 구글링을 통해 오류를 해결해봅시다.
 예를 들어, 아래와 같은 코드를 작성했다고 해보죠.
@@ -49,7 +49,7 @@ ValueError: invalid literal for int() with base 10: 'Hello'
 
 [ValueError: invalid literal for int() with base 10: 'Hello](https://www.google.com/search?q=ValueError:+invalid+literal+for+int()+with+base+10:+'Hello') (눌러서 검색해보세요!)
 어때요, 바로 수많은 자료들이 이 오류의 해결법을 알려주고 있네요.
-![검색 결과 이미지](google_valueerror.png)
+![검색 결과 이미지](./google_valueerror.png)
 이렇게 찾은 자료들을 읽고, 오류를 고치면 됩니다.
 
 구글링은 이처럼 간단한 방법으로, 원하는 정보를 찾을 수 있는 프로그래머들의 최강의 무기 중 하나입니다.

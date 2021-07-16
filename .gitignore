@@ -1,2 +1,6 @@
 ./venv
 ./.idea
+
+# vuepress module
+node_modules
+.vuepress/dist
