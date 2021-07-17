@@ -4,3 +4,4 @@
 # vuepress module
 node_modules
 .vuepress/dist
+build
