@@ -10,7 +10,7 @@ module.exports = {
    */
   description: "Python Tutorial for All",
   dest: "build",
-  base: "/",
+  base: "/PythonTutorial/",
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
