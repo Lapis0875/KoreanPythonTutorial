@@ -35,7 +35,7 @@
 4. 타입이란 무엇인가? & 타입 힌트
 </br></br>
 
-## [객체지향 패러다임 : Object Oriented Programming](Object Oriented Programming/README.md)
+## [객체지향 패러다임 : Object Oriented Programming](Object%20Oriented%20Programming/README.md)
 1. 객체지향 프로그래밍은 어떤 패러다임인가? & 지금까지 써오던 방식과 비교해보기
 2. 클래스와 객체
 3. 클래스가 가지는 특성 (캡슐화, 상속, ...)
