@@ -2,7 +2,7 @@
   "name": "python_tutorial",
   "version": "1.0.0",
   "description": "Python Tutorial",
-  "repository": "https://github.com/Lapis0875/PythonTutorial.git",
+  "repository": "https://github.com/KoreanTutorials/PythonTutorial.git",
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build ."
