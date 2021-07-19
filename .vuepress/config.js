@@ -10,7 +10,7 @@ module.exports = {
    */
   description: "Python Tutorial for All",
   dest: "build",
-  base: "/Python-Tutorial/",
+  base: "/",
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
@@ -29,7 +29,7 @@ module.exports = {
     nav: [
       {
         text: 'Repository',
-        link: 'https://github.com/Lapis0875/PythonTutorial'
+        link: 'https://github.com/KoreanTutorials/PythonTutorial'
       }
     ],
     smoothScrool: true,
