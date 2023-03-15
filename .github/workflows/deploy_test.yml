@@ -1,0 +1,15 @@
+name: Deploy test
+
+on:
+  - push
+  - pull_request
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Vuepress deploy
+        run: yarn && yarn build
